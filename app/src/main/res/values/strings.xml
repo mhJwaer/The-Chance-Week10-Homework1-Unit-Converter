@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The Chance Week10HomeWork1 UnitConverter</string>
+
+    <string-array name="units">
+        <item>INCH</item>
+        <item>CENTIMETER</item>
+        <item>FOOT</item>
+        <item>YARD</item>
+        <item>METER</item>
+        <item>MILE</item>
+        <item>KILOMETER</item>
+    </string-array>
+</resources>
